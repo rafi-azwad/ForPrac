@@ -21,6 +21,8 @@ public class Primenumber {
 
     public static void main(String[] args) {
         checkPrime(11);
+        checkPrime(3);
+        checkPrime(6);
 
 
     }
